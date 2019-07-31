@@ -1,0 +1,501 @@
+\t (00:01:09) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:01:09)     Journal start - Wed Jul 31 16:32:05 2019
+\t (00:01:09)         Host=KJKIM-PC User=user Pid=1444 CPUs=4
+\t (00:01:09) CmdLine= C:\Users\user\Desktop\tools\bin\allegro.exe
+\t (00:01:09) 
+   (00:01:09) Loading axlcore.cxt 
+\t (00:01:10) Opening existing design...
+\d (00:01:10) Design opened: C:/Users/user/Desktop/work_OrCAD/my_test731_2/allegro/MY_TEST731_2.brd
+\i (00:01:10) trapsize 663
+\i (00:01:10) trapsize 679
+\i (00:01:10) trapsize 694
+\i (00:01:10) trapsize 678
+\i (00:01:10) generaledit 
+\i (00:01:14) xhilite 
+\i (00:01:14) xname_flush 
+\i (00:01:14) done 
+\i (00:01:14) generaledit 
+\i (00:01:14) exit 
+\e (00:01:14) Do you want to save the changes you made to MY_TEST731_2.brd?
+\i (00:01:18) fillin menu_cancel 
+\i (00:01:18) generaledit 
+\i (00:02:12) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: MetalB"
+\i (00:02:12) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: MetalB"
+\i (00:02:14) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: SilkT"
+\i (00:02:14) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SilkT"
+\i (00:02:53) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:02:55) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (00:02:56) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (00:02:57) QtSignal CVPLayerGrid CVPBoxAllAll clicked false
+\i (00:03:00) QtSignal CVPLayerGrid CVPMasksLabel clicked false
+\i (00:03:02) QtSignal CVPLayerGrid CVPPlanesLabel clicked false
+\i (00:03:03) QtSignal CVPLayerGrid CVPConductorsLabel clicked false
+\i (00:03:04) QtSignal CVPLayerGrid CVPConductorsLabel clicked true
+\i (00:03:04) QtSignal CVPLayerGrid CVPPlanesLabel clicked true
+\i (00:03:05) QtSignal CVPLayerGrid CVPMasksLabel clicked true
+\i (00:03:08) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SilkT"
+\i (00:03:09) QtSignal ColorVisibilityPane CVPGlobalVisOff clicked
+\i (00:03:11) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: SilkT"
+\i (00:03:12) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (00:03:13) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (00:03:14) QtSignal CVPLayerGrid CVPBoxAllBottom clicked false
+\i (00:03:14) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (00:03:15) QtSignal CVPLayerGrid CVPBoxAllAll clicked true
+\i (00:03:16) QtSignal CVPLayerGrid CVPBoxAllAll clicked false
+\i (00:03:18) QtSignal CVPLayerGrid CVPAllConductors clicked true
+\i (00:03:20) QtSignal CVPLayerGrid CVPAllConductors clicked false
+\i (00:03:20) QtSignal CVPLayerGrid CVPAllPlanes clicked false
+\i (00:03:22) QtSignal CVPLayerGrid CVPPlanesEtch clicked false
+\i (00:03:22) QtSignal CVPLayerGrid CVPPlanesVia clicked false
+\i (00:03:23) QtSignal CVPLayerGrid CVPPlanesVia clicked false
+\i (00:03:24) QtSignal CVPLayerGrid CVPMasksEtch clicked false
+\i (00:03:24) QtSignal CVPLayerGrid CVPMasksVia clicked false
+\i (00:03:25) QtSignal CVPLayerGrid CVPMasksPin clicked false
+\i (00:03:25) QtSignal CVPLayerGrid CVPAll_LayersEtch clicked true
+\i (00:03:26) QtSignal CVPLayerGrid CVPAll_LayersVia clicked true
+\i (00:03:27) QtSignal CVPLayerGrid CVPAll_LayersPin clicked true
+\i (00:03:29) QtSignal CVPLayerGrid CVPAll_LayersPin clicked false
+\i (00:03:30) QtSignal CVPLayerGrid CVPAll_LayersVia clicked false
+\i (00:03:30) QtSignal CVPLayerGrid CVPAll_LayersEtch clicked false
+\i (00:03:35) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Design"
+\i (00:03:35) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: Design"
+\i (00:03:38) QtSignal CVPLayerGrid CVPButtonDrcTop clicked
+\i (00:03:39) QtSignal CVPLayerGrid CVPButtonDrcTop clicked
+\i (00:03:42) QtSignal CVPLayerGrid CVPConductorsEtch clicked false
+\i (00:03:45) QtSignal CVPLayerGrid CVPConductorsVia clicked false
+\i (00:03:46) QtSignal CVPLayerGrid CVPConductorsPin clicked false
+\i (00:03:48) zoom in 1 
+\i (00:03:48) setwindow pcb
+\i (00:03:48) zoom in 41.417 52.000
+\i (00:03:48) trapsize 339
+\i (00:03:51) roam start
+\i (00:03:51) roam x -112
+\i (00:03:51) roam y 16
+\i (00:03:51) roam x -64
+\i (00:03:51) roam x -16
+\i (00:03:51) roam x -80
+\i (00:03:51) roam y 16
+\i (00:03:52) roam x 16
+\i (00:03:52) roam y 16
+\i (00:03:52) roam x 48
+\i (00:03:52) roam y 16
+\i (00:03:52) roam x 32
+\i (00:03:52) roam y 16
+\i (00:03:52) roam end
+\i (00:03:56) move 
+\t (00:03:56) Select element(s) to move.
+\i (00:03:57) pick grid 9.491 59.417
+\t (00:03:57) last pick:  10.160 58.420
+\t (00:03:57) last pick:  5.080 53.340
+\t (00:03:57) Moving C1 / C_CAP196_0.1UF / CAP196.
+\t (00:03:57) Pick new location for the element(s).
+\i (00:04:02) pick grid 6.303 56.500
+\t (00:04:02) last pick:  5.080 55.880
+\i (00:04:02) undo 
+\i (00:04:02) trapsize 339
+\i (00:04:02) generaledit 
+\i (00:04:07) move 
+\t (00:04:07) Select element(s) to move.
+\i (00:04:10) setwindow form.find
+\i (00:04:10) FORM find all_off  
+\i (00:04:13) FORM find symbols YES 
+\i (00:04:17) FORM find symbols NO 
+\i (00:04:18) FORM find text YES 
+\i (00:04:19) setwindow pcb
+\i (00:04:19) pick grid 9.355 59.214
+\t (00:04:19) last pick:  10.160 58.420
+\t (00:04:19) last pick:  8.636 58.420
+\t (00:04:19) Pick new location for the element(s).
+\i (00:04:20) iangle -90 
+\t (00:04:20) last pick:  270.000 0.000
+\i (00:04:21) iangle -90 
+\t (00:04:21) last pick:  270.000 0.000
+\i (00:04:21) iangle -90 
+\t (00:04:21) last pick:  270.000 0.000
+\i (00:04:24) pick grid 9.355 57.111
+\t (00:04:24) last pick:  10.160 55.880
+\i (00:04:25) pick grid 11.729 47.207
+\t (00:04:25) last pick:  12.700 48.260
+\t (00:04:25) last pick:  11.303 46.812
+\t (00:04:25) Pick new location for the element(s).
+\i (00:04:26) iangle -90 
+\t (00:04:26) last pick:  270.000 0.000
+\i (00:04:26) iangle -90 
+\t (00:04:26) last pick:  270.000 0.000
+\i (00:04:26) iangle -90 
+\t (00:04:26) last pick:  270.000 0.000
+\i (00:04:27) pick grid 10.780 44.765
+\t (00:04:27) last pick:  10.160 45.720
+\i (00:04:28) pick grid 22.040 38.117
+\t (00:04:28) last pick:  22.860 38.100
+\t (00:04:28) last pick:  21.463 38.557
+\t (00:04:28) Pick new location for the element(s).
+\i (00:04:28) iangle -90 
+\t (00:04:28) last pick:  270.000 0.000
+\i (00:04:29) iangle -90 
+\t (00:04:29) last pick:  270.000 0.000
+\i (00:04:29) iangle -90 
+\t (00:04:29) last pick:  270.000 0.000
+\i (00:04:30) pick grid 21.498 42.526
+\t (00:04:30) last pick:  20.320 43.180
+\i (00:04:31) pick grid 37.846 54.262
+\t (00:04:31) last pick:  38.100 53.340
+\t (00:04:31) last pick:  37.922 54.737
+\t (00:04:31) Pick new location for the element(s).
+\i (00:04:32) iangle -90 
+\t (00:04:32) last pick:  270.000 0.000
+\i (00:04:32) iangle -90 
+\t (00:04:32) last pick:  270.000 0.000
+\i (00:04:34) pick grid 36.896 57.586
+\t (00:04:34) last pick:  38.100 58.420
+\i (00:04:36) pick grid 62.470 60.774
+\t (00:04:36) last pick:  63.500 60.960
+\t (00:04:36) last pick:  62.103 61.417
+\t (00:04:36) Pick new location for the element(s).
+\i (00:04:36) iangle -90 
+\t (00:04:36) last pick:  270.000 0.000
+\i (00:04:37) iangle -90 
+\t (00:04:37) last pick:  270.000 0.000
+\i (00:04:37) iangle -90 
+\t (00:04:37) last pick:  270.000 0.000
+\i (00:04:37) pick grid 60.095 59.824
+\t (00:04:37) last pick:  60.960 60.960
+\i (00:04:38) pick grid 52.701 48.360
+\t (00:04:38) last pick:  53.340 48.260
+\t (00:04:38) last pick:  51.943 48.717
+\t (00:04:38) Pick new location for the element(s).
+\i (00:04:39) iangle -90 
+\t (00:04:39) last pick:  270.000 0.000
+\i (00:04:39) iangle -90 
+\t (00:04:39) last pick:  270.000 0.000
+\i (00:04:39) iangle -90 
+\t (00:04:39) last pick:  270.000 0.000
+\i (00:04:41) pick grid 51.277 49.513
+\t (00:04:41) last pick:  50.800 48.260
+\i (00:04:41) pick grid 52.430 43.273
+\t (00:04:41) last pick:  53.340 43.180
+\t (00:04:41) last pick:  51.943 43.637
+\t (00:04:41) Pick new location for the element(s).
+\i (00:04:41) iangle -90 
+\t (00:04:41) last pick:  270.000 0.000
+\i (00:04:42) iangle -90 
+\t (00:04:42) last pick:  270.000 0.000
+\i (00:04:42) iangle -90 
+\t (00:04:42) last pick:  270.000 0.000
+\i (00:04:43) pick grid 51.616 42.119
+\t (00:04:43) last pick:  50.800 43.180
+\i (00:04:44) roam start
+\i (00:04:44) roam x 16
+\i (00:04:44) roam x 112
+\i (00:04:44) roam x 16
+\i (00:04:44) roam x 64
+\i (00:04:44) roam x 48
+\i (00:04:44) roam end
+\i (00:04:45) pick grid 84.313 56.636
+\t (00:04:45) last pick:  83.820 55.880
+\t (00:04:45) last pick:  84.277 57.277
+\t (00:04:45) Pick new location for the element(s).
+\i (00:04:45) iangle -90 
+\t (00:04:45) last pick:  270.000 0.000
+\i (00:04:46) iangle -90 
+\t (00:04:46) last pick:  270.000 0.000
+\i (00:04:46) pick grid 88.315 57.789
+\t (00:04:46) last pick:  88.900 58.420
+\i (00:04:48) pick grid 82.753 43.612
+\t (00:04:48) last pick:  83.820 43.180
+\t (00:04:48) last pick:  82.550 43.815
+\t (00:04:48) Pick new location for the element(s).
+\i (00:04:48) iangle -90 
+\t (00:04:48) last pick:  270.000 0.000
+\i (00:04:48) iangle -90 
+\t (00:04:48) last pick:  270.000 0.000
+\i (00:04:49) iangle -90 
+\t (00:04:49) last pick:  270.000 0.000
+\i (00:04:49) pick grid 77.733 44.222
+\t (00:04:49) last pick:  78.740 43.180
+\i (00:04:50) pick grid 87.908 43.205
+\t (00:04:50) last pick:  88.900 43.180
+\t (00:04:50) last pick:  87.630 43.815
+\t (00:04:50) Pick new location for the element(s).
+\i (00:04:50) iangle -90 
+\t (00:04:50) last pick:  270.000 0.000
+\i (00:04:50) iangle -90 
+\t (00:04:50) last pick:  270.000 0.000
+\i (00:04:51) iangle -90 
+\t (00:04:51) last pick:  270.000 0.000
+\i (00:04:52) pick grid 89.875 42.459
+\t (00:04:52) last pick:  88.900 43.180
+\i (00:04:53) roam start
+\i (00:04:53) roam x -96
+\i (00:04:53) roam y 48
+\i (00:04:53) roam x -96
+\i (00:04:53) roam y 64
+\i (00:04:53) roam x -128
+\i (00:04:53) roam y 32
+\i (00:04:53) roam x -80
+\i (00:04:53) roam y 32
+\i (00:04:53) roam x -80
+\i (00:04:53) roam y 16
+\i (00:04:53) roam x -64
+\i (00:04:53) roam y 16
+\i (00:04:53) roam end
+\i (00:04:54) pick grid 31.877 25.093
+\t (00:04:54) last pick:  33.020 25.400
+\t (00:04:54) last pick:  31.623 25.857
+\t (00:04:54) Pick new location for the element(s).
+\i (00:04:55) iangle -90 
+\t (00:04:55) last pick:  270.000 0.000
+\i (00:04:55) iangle -90 
+\t (00:04:55) last pick:  270.000 0.000
+\i (00:04:56) iangle -90 
+\t (00:04:56) last pick:  270.000 0.000
+\i (00:04:56) pick grid 31.334 30.859
+\t (00:04:56) last pick:  30.480 30.480
+\i (00:04:57) pick grid 32.012 20.276
+\t (00:04:57) last pick:  33.020 20.320
+\t (00:04:57) last pick:  31.623 20.777
+\t (00:04:57) Pick new location for the element(s).
+\i (00:04:57) iangle -90 
+\t (00:04:57) last pick:  270.000 0.000
+\i (00:04:58) iangle -90 
+\t (00:04:58) last pick:  270.000 0.000
+\i (00:04:58) iangle -90 
+\t (00:04:58) last pick:  270.000 0.000
+\i (00:04:59) pick grid 31.198 24.143
+\t (00:04:59) last pick:  30.480 25.400
+\i (00:05:00) pick grid 31.877 15.664
+\t (00:05:00) last pick:  33.020 15.240
+\t (00:05:00) last pick:  31.623 15.697
+\t (00:05:00) Pick new location for the element(s).
+\i (00:05:00) iangle -90 
+\t (00:05:00) last pick:  270.000 0.000
+\i (00:05:00) iangle -90 
+\t (00:05:00) last pick:  270.000 0.000
+\i (00:05:00) iangle -90 
+\t (00:05:00) last pick:  270.000 0.000
+\i (00:05:01) pick grid 30.316 19.598
+\t (00:05:01) last pick:  30.480 20.320
+\i (00:05:02) pick grid 32.080 10.644
+\t (00:05:02) last pick:  33.020 10.160
+\t (00:05:02) last pick:  31.623 10.617
+\t (00:05:02) Pick new location for the element(s).
+\i (00:05:02) iangle -90 
+\t (00:05:02) last pick:  270.000 0.000
+\i (00:05:02) iangle -90 
+\t (00:05:02) last pick:  270.000 0.000
+\i (00:05:03) iangle -90 
+\t (00:05:03) last pick:  270.000 0.000
+\i (00:05:03) pick grid 30.520 14.850
+\t (00:05:03) last pick:  30.480 15.240
+\i (00:05:08) pick grid 46.800 30.180
+\t (00:05:08) last pick:  45.720 30.480
+\t (00:05:08) last pick:  47.117 30.023
+\t (00:05:08) Pick new location for the element(s).
+\i (00:05:08) iangle -90 
+\t (00:05:08) last pick:  270.000 0.000
+\i (00:05:08) iangle -90 
+\t (00:05:08) last pick:  270.000 0.000
+\i (00:05:09) iangle -90 
+\t (00:05:09) last pick:  270.000 0.000
+\i (00:05:09) iangle -90 
+\t (00:05:09) last pick:  270.000 0.000
+\i (00:05:10) iangle -90 
+\t (00:05:10) last pick:  270.000 0.000
+\i (00:05:11) pick grid 48.360 30.791
+\t (00:05:11) last pick:  48.260 30.480
+\i (00:05:12) pick grid 49.853 19.598
+\t (00:05:12) last pick:  50.800 20.320
+\t (00:05:12) last pick:  49.403 20.777
+\t (00:05:12) Pick new location for the element(s).
+\i (00:05:12) iangle -90 
+\t (00:05:12) last pick:  270.000 0.000
+\i (00:05:12) iangle -90 
+\t (00:05:12) last pick:  270.000 0.000
+\i (00:05:13) iangle -90 
+\t (00:05:13) last pick:  270.000 0.000
+\i (00:05:13) pick grid 49.242 24.618
+\t (00:05:13) last pick:  48.260 25.400
+\i (00:05:14) pick grid 50.328 15.596
+\t (00:05:14) last pick:  50.800 15.240
+\t (00:05:14) last pick:  49.403 15.697
+\t (00:05:14) Pick new location for the element(s).
+\i (00:05:14) iangle -90 
+\t (00:05:14) last pick:  270.000 0.000
+\i (00:05:14) iangle -90 
+\t (00:05:14) last pick:  270.000 0.000
+\i (00:05:15) iangle -90 
+\t (00:05:15) last pick:  270.000 0.000
+\i (00:05:15) pick grid 48.903 18.987
+\t (00:05:15) last pick:  48.260 17.780
+\i (00:05:16) pick grid 48.700 18.038
+\t (00:05:16) last pick:  48.260 17.780
+\t (00:05:16) last pick:  48.260 17.780
+\t (00:05:16) Pick new location for the element(s).
+\i (00:05:17) pick grid 48.700 19.055
+\t (00:05:17) last pick:  48.260 20.320
+\i (00:05:18) pick grid 50.328 10.305
+\t (00:05:18) last pick:  50.800 10.160
+\t (00:05:18) last pick:  49.403 10.617
+\t (00:05:18) Pick new location for the element(s).
+\i (00:05:18) iangle -90 
+\t (00:05:18) last pick:  270.000 0.000
+\i (00:05:18) iangle -90 
+\t (00:05:18) last pick:  270.000 0.000
+\i (00:05:19) iangle -90 
+\t (00:05:19) last pick:  270.000 0.000
+\i (00:05:19) pick grid 47.886 14.103
+\t (00:05:19) last pick:  48.260 15.240
+\i (00:05:20) roam start
+\i (00:05:20) roam x 16
+\i (00:05:20) roam x 112
+\i (00:05:20) roam x 112
+\i (00:05:20) roam x 48
+\i (00:05:20) roam x 80
+\i (00:05:20) roam x 16
+\i (00:05:20) roam end
+\i (00:05:21) pick grid 66.743 29.705
+\t (00:05:21) last pick:  66.040 30.480
+\t (00:05:21) last pick:  67.488 30.378
+\t (00:05:21) Pick new location for the element(s).
+\i (00:05:21) iangle -90 
+\t (00:05:21) last pick:  270.000 0.000
+\i (00:05:21) iangle -90 
+\t (00:05:21) last pick:  270.000 0.000
+\i (00:05:22) iangle -90 
+\t (00:05:22) last pick:  270.000 0.000
+\i (00:05:22) iangle -90 
+\t (00:05:22) last pick:  270.000 0.000
+\i (00:05:22) iangle -90 
+\t (00:05:22) last pick:  270.000 0.000
+\i (00:05:23) pick grid 67.896 29.637
+\t (00:05:23) last pick:  68.580 30.480
+\i (00:05:24) pick grid 73.120 9.830
+\t (00:05:24) last pick:  73.660 10.160
+\i (00:05:24) pick grid 71.966 10.237
+\t (00:05:24) last pick:  71.120 10.160
+\t (00:05:24) last pick:  72.517 9.703
+\t (00:05:24) Pick new location for the element(s).
+\i (00:05:25) iangle -90 
+\t (00:05:25) last pick:  270.000 0.000
+\i (00:05:26) pick grid 72.306 11.390
+\t (00:05:26) last pick:  71.120 10.160
+\i (00:05:27) pick grid 86.347 23.804
+\t (00:05:27) last pick:  86.360 22.860
+\t (00:05:27) last pick:  85.903 24.003
+\t (00:05:27) Pick new location for the element(s).
+\i (00:05:27) pick grid 82.481 24.753
+\t (00:05:27) last pick:  81.280 25.400
+\i (00:05:28) pick grid 93.063 28.891
+\t (00:05:28) last pick:  93.980 27.940
+\t (00:05:28) last pick:  92.837 28.651
+\t (00:05:28) Pick new location for the element(s).
+\i (00:05:28) iangle -90 
+\t (00:05:28) last pick:  270.000 0.000
+\i (00:05:29) iangle -90 
+\t (00:05:29) last pick:  270.000 0.000
+\i (00:05:29) iangle -90 
+\t (00:05:29) last pick:  270.000 0.000
+\i (00:05:30) pick grid 94.284 28.756
+\t (00:05:30) last pick:  93.980 27.940
+\i (00:05:31) roam start
+\i (00:05:31) roam y -16
+\i (00:05:31) roam y -64
+\i (00:05:31) roam y -32
+\i (00:05:32) roam y -32
+\i (00:05:32) roam x 16
+\i (00:05:32) roam y -32
+\i (00:05:32) roam y -32
+\i (00:05:32) roam end
+\i (00:05:34) setwindow form.find
+\i (00:05:34) FORM find all_on  
+\i (00:05:36) FORM find all_on  
+\i (00:05:39) setwindow pcb
+\i (00:05:39) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:05:40) zoom out 1 
+\i (00:05:40) setwindow pcb
+\i (00:05:40) zoom out 55.211 51.684
+\i (00:05:40) trapsize 678
+\i (00:05:42) save 
+\i (00:05:43) fillin yes 
+\i (00:05:43) generaledit 
+\i (00:05:51) roam start
+\i (00:05:51) roam y -64
+\i (00:05:51) roam x 16
+\i (00:05:51) roam y -64
+\i (00:05:51) roam y -16
+\i (00:05:51) roam y -32
+\i (00:05:51) roam end
+\i (00:05:52) zoom out 1 
+\i (00:05:52) setwindow pcb
+\i (00:05:52) zoom out -15.947 64.912
+\i (00:05:52) trapsize 1327
+\i (00:06:02) prmed 
+\i (00:06:04) setwindow form.prmedit
+\i (00:06:04) FORM prmedit design  
+\i (00:06:06) FORM prmedit text  
+\i (00:06:07) FORM prmedit shapes  
+\i (00:06:08) FORM prmedit route  
+\i (00:06:09) FORM prmedit mfg_applications  
+\i (00:06:09) FORM prmedit display  
+\i (00:06:13) FORM prmedit done  
+\i (00:06:13) setwindow pcb
+\i (00:06:13) generaledit 
+\i (00:06:16) cmgr 
+\i (00:06:17) setwindow cmgr
+\i (00:06:17) cm newView ( kConsmgr worksheet 78:Spacing "111:Net Class-Class" "112:All Layers" "169:All Layers" )
+\i (00:06:17) cm newView ( kConsmgr worksheet 55:Physical "56:Physical Constraint Set" "57:All Layers" "323:All Layers" )
+\i (00:06:17) cm newView ( kConsmgr worksheet 55:Physical 61:Net "62:All Layers" "63:All Layers" )
+\i (00:06:17) cm newView ( kConsmgr worksheet 78:Spacing "79:Spacing Constraint Set" "80:All Layers" "167:All Layers" )
+\i (00:06:17) cm newView ( kConsmgr worksheet 78:Spacing 94:Net "95:All Layers" "1:All Layers" )
+\i (00:06:17) cm select ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:06:17) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:06:17) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:06:17) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:06:17) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:06:17) setwindow pcb
+\i (00:06:17) generaledit 
+\i (00:06:22) setwindow cmgr
+\i (00:06:22) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:06:23) cm scope Design "MY_TEST731_2"
+\i (00:06:23) cm expand ( row ( "Object Type" "XNets/Nets" ) )
+\i (00:06:24) cm select ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:06:26) cm select ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:06:33) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:06:34) cm expand ( row ( "Object Type" "XNets/Nets" ) )
+\i (00:06:36) cm select ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:06:38) cm select ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:06:43) cm close ( frame ( kConsmgr workbook 78:Spacing "111:Net Class-Class" "112:All Layers" ) )
+\i (00:06:44) cm close ( frame ( kConsmgr workbook 55:Physical "56:Physical Constraint Set" "57:All Layers" ) )
+\i (00:06:44) cm close ( frame ( kConsmgr workbook 55:Physical 61:Net "62:All Layers" ) )
+\i (00:06:44) cm close ( frame ( kConsmgr workbook 78:Spacing "79:Spacing Constraint Set" "80:All Layers" ) )
+\i (00:06:44) cm close ( frame ( kConsmgr workbook 78:Spacing 94:Net "95:All Layers" ) )
+\i (00:06:44) cm exit
+\i (00:09:30) setwindow pcb
+\i (00:09:30) pick grid 180.177 118.053
+\t (00:09:30) last pick:  180.340 116.840
+\i (00:09:36) pick grid 213.363 124.159
+\t (00:09:36) last pick:  213.360 124.460
+\i (00:09:38) artwork 
+\i (00:09:49) setwindow form.film_control
+\i (00:09:49) FORM film_control create  
+\i (00:09:50) fillin yes 
+\w (00:09:50) No film records selected.
+\i (00:10:00) FORM film_control ok  
+\i (00:10:00) setwindow pcb
+\i (00:10:00) generaledit 
+\i (00:10:05) plctxt out 
+\i (00:10:07) setwindow form.plctxt
+\i (00:10:07) FORM plctxt execute  
+\t (00:10:07) Starting Place symbols by text file...
+\i (00:10:19) setwindow pcb
+\i (00:10:19) nctape_full 
+\i (00:10:23) setwindow form.nc_drill
+\i (00:10:23) FORM nc_drill repeat_codes NO 
+\i (00:10:24) FORM nc_drill execute  
+\t (00:10:24) Starting Generating NC Drill...
+\i (00:10:34) FORM nc_drill close  
+\i (00:10:34) setwindow pcb
+\i (00:10:34) generaledit 
+\i (00:10:43) plctxt out 
+\i (00:10:46) setwindow form.plctxt
+\i (00:10:46) FORM plctxt execute 
